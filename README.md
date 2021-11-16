@@ -1,2 +1,2 @@
 # linear-regression
-[PR]()
+[PR](https://github.com/RazanArmouti/linear-regression/pull/1)
